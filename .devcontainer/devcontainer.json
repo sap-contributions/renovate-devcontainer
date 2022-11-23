@@ -4,6 +4,7 @@
     "memory": "8gb",
     "storage": "32gb"
   },
+  "updateContentCommand": "yarn install && yarn jest",
   "name": "Renovate",
   "dockerFile": "Dockerfile",
   "settings": {
